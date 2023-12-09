@@ -1,3 +1,5 @@
+![Alt Text](../images/Banner.png)
+
 ### Hi 👋, I'm Rawshanara Eity
 
 
