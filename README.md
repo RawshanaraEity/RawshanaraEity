@@ -9,8 +9,7 @@
 - 🤔 **Seeking Opportunities:** Open to job roles or internships where I can continue learning and making a positive impact.
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RawshanaraEity&theme=ocean-gradient)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RawshanaraEity&theme=ocean-gradient)](https://git.io/streak-stats) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RawshanaraEity&theme=react)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RawshanaraEity&theme=react)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RawshanaraEity&theme=react)
