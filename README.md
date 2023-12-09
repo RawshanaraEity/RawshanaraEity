@@ -8,8 +8,9 @@
 
 - 🤔 **Seeking Opportunities:** Open to job roles or internships where I can continue learning and making a positive impact.
 
+**Rawshanara Eity's GitHub Stats**
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RawshanaraEity&theme=ocean-gradient)](https://git.io/streak-stats)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RawshanaraEity&theme=transparent)
+
 
