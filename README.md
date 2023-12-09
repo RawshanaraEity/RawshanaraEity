@@ -8,6 +8,11 @@
 
 - 🤔 **Seeking Opportunities:** Open to job roles or internships where I can continue learning and making a positive impact.
 
+**Technology Stack:**
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,bootstrap,express,firebase,mongodb,nodejs)](https://skillicons.dev)
+
+
 **Rawshanara Eity's GitHub Stats**
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RawshanaraEity&theme=ocean-gradient)](https://git.io/streak-stats)
