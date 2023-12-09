@@ -1,4 +1,4 @@
-![Alt Text](../images/Banner.png)
+![Banner Image](images/Banner.png)
 
 ### Hi 👋, I'm Rawshanara Eity
 
