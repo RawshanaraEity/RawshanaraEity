@@ -22,10 +22,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RawshanaraEity&theme=ocean-gradient)](https://git.io/streak-stats)
 
+<hr>
 
-
-**🚀💻 Projects**
-
+ ## 🚀 Projects
+ 
 <hr>
 
 **💻 MediCamp**
